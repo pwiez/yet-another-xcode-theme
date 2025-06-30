@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>DVTConsoleDebuggerInputTextColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTConsoleDebuggerInputTextFont</key>
+    <string>MonaspaceNeon-Bold - 11.0</string>
+    <key>DVTConsoleDebuggerOutputTextColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTConsoleDebuggerOutputTextFont</key>
+    <string>MonaspaceNeon-Regular - 11.0</string>
+    <key>DVTConsoleDebuggerPromptTextColor</key>
+    <string>0.658824 1.000000 0.376471 1</string> <key>DVTConsoleDebuggerPromptTextFont</key>
+    <string>MonaspaceNeon-Bold - 11.0</string>
+    <key>DVTConsoleExectuableInputTextColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTConsoleExectuableInputTextFont</key>
+    <string>MonaspaceNeon-Regular - 11.0</string>
+    <key>DVTConsoleExectuableOutputTextColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTConsoleExectuableOutputTextFont</key>
+    <string>MonaspaceNeon-Bold - 11.0</string>
+    <key>DVTConsoleTextBackgroundColor</key>
+    <string>0.101961 0.101961 0.101961 1</string> <key>DVTConsoleTextInsertionPointColor</key>
+    <string>1.000000 1.000000 1.000000 1</string> <key>DVTConsoleTextSelectionColor</key>
+    <string>0.250980 0.313725 0.376471 0.5</string> <key>DVTFontAndColorVersion</key>
+    <integer>1</integer>
+    <key>DVTLineSpacing</key>
+    <real>1.1000000238418579</real>
+
+    <key>DVTMarkupTextBackgroundColor</key>
+    <string>0.188235 0.188235 0.188235 1</string> <key>DVTMarkupTextBorderColor</key>
+    <string>0.313725 0.313725 0.313725 1</string> <key>DVTMarkupTextCodeFont</key>
+    <string>MonaspaceNeon-Regular - 13.0</string>
+    <key>DVTMarkupTextEmphasisColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTMarkupTextEmphasisFont</key>
+    <string>MonaspaceNeon-RegularItalic - 13.0</string>
+    <key>DVTMarkupTextInlineCodeColor</key>
+    <string>0.831373 0.831373 0.831373 0.7</string> <key>DVTMarkupTextLinkColor</key>
+    <string>0.376471 0.713725 1.000000 1</string> <key>DVTMarkupTextLinkFont</key>
+    <string>MonaspaceNeon-Regular - 13.0</string>
+    <key>DVTMarkupTextNormalColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTMarkupTextNormalFont</key>
+    <string>MonaspaceNeon-Regular - 13.0</string>
+    <key>DVTMarkupTextOtherHeadingColor</key>
+    <string>0.831373 0.831373 0.831373 0.5</string> <key>DVTMarkupTextOtherHeadingFont</key>
+    <string>MonaspaceNeon-Regular - 18.2</string>
+    <key>DVTMarkupTextPrimaryHeadingColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTMarkupTextPrimaryHeadingFont</key>
+    <string>MonaspaceNeon-Regular - 31.2</string>
+    <key>DVTMarkupTextSecondaryHeadingColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTMarkupTextSecondaryHeadingFont</key>
+    <string>MonaspaceNeon-Regular - 23.4</string>
+    <key>DVTMarkupTextStrongColor</key>
+    <string>0.831373 0.831373 0.831373 1</string> <key>DVTMarkupTextStrongFont</key>
+    <string>MonaspaceNeon-Bold - 13.0</string>
+
+    <key>DVTScrollbarMarkerAnalyzerColor</key>
+    <string>0.403922 0.372549 1 1</string>
+    <key>DVTScrollbarMarkerBreakpointColor</key>
+    <string>0.290196 0.290196 0.968627 1</string>
+    <key>DVTScrollbarMarkerDiffColor</key>
+    <string>0.556863 0.556863 0.556863 1</string>
+    <key>DVTScrollbarMarkerDiffConflictColor</key>
+    <string>0.968627 0.290196 0.290196 1</string>
+    <key>DVTScrollbarMarkerErrorColor</key>
+    <string>0.968627 0.290196 0.290196 1</string>
+    <key>DVTScrollbarMarkerRuntimeIssueColor</key>
+    <string>0.643137 0.509804 1 1</string>
+    <key>DVTScrollbarMarkerWarningColor</key>
+    <string>0.937255 0.717647 0.34902 1</string>
+
+    <key>DVTSourceTextBackground</key>
+    <string>0.101961 0.101961 0.101961 1</string> <key>DVTSourceTextBlockDimBackgroundColor</key>
+    <string>0.156863 0.156863 0.156863 1</string> <key>DVTSourceTextCurrentLineHighlightColor</key>
+    <string>0.133333 0.133333 0.133333 1</string> <key>DVTSourceTextInsertionPointColor</key>
+    <string>1.000000 1.000000 1.000000 1</string> <key>DVTSourceTextInvisiblesColor</key>
+    <string>0.313725 0.313725 0.313725 1</string> <key>DVTSourceTextSelectionColor</key>
+    <string>0.250980 0.313725 0.376471 0.5</string> <key>DVTSourceTextSyntaxColors</key>
+    <dict>
+        <key>xcode.syntax.attribute</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.character</key>
+        <string>0.745098 0.345098 0.968627 1</string> <key>xcode.syntax.comment</key>
+        <string>0.556863 0.615686 0.658824 1</string> <key>xcode.syntax.comment.doc</key>
+        <string>0.556863 0.615686 0.658824 1</string> <key>xcode.syntax.comment.doc.keyword</key>
+        <string>0.556863 0.615686 0.658824 1</string> <key>xcode.syntax.declaration.other</key>
+        <string>1.000000 0.380000 0.000000 1</string> <key>xcode.syntax.declaration.type</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.identifier.class</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.identifier.class.system</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.identifier.constant</key>
+        <string>0.831373 0.831373 0.831373 1</string> <key>xcode.syntax.identifier.constant.system</key>
+        <string>0.831373 0.831373 0.831373 1</string> <key>xcode.syntax.identifier.function</key>
+        <string>1.000000 0.380000 0.000000 1</string> <key>xcode.syntax.identifier.function.system</key>
+        <string>1.000000 0.380000 0.000000 1</string> <key>xcode.syntax.identifier.macro</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.identifier.macro.system</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.identifier.type</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.identifier.type.system</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.identifier.variable</key>
+        <string>0.831373 0.831373 0.831373 1</string> <key>xcode.syntax.identifier.variable.system</key>
+        <string>0.831373 0.831373 0.831373 1</string> <key>xcode.syntax.keyword</key>
+        <string>0.200000 0.600000 1.000000 1</string> <key>xcode.syntax.mark</key>
+        <string>0.556863 0.615686 0.658824 1</string> <key>xcode.syntax.markup.code</key>
+        <string>0.831373 0.831373 0.831373 1</string> <key>xcode.syntax.number</key>
+        <string>0.000000 0.700000 0.700000 1</string> <key>xcode.syntax.plain</key>
+        <string>0.831373 0.831373 0.831373 1</string> <key>xcode.syntax.preprocessor</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.regex</key>
+        <string>0.745098 0.345098 0.968627 1</string> <key>xcode.syntax.regex.capturename</key>
+        <string>0.000000 0.700000 0.700000 1</string> <key>xcode.syntax.regex.charname</key>
+        <string>0.117647 0.721569 0.352941 1</string> <key>xcode.syntax.regex.number</key>
+        <string>0.000000 0.700000 0.700000 1</string> <key>xcode.syntax.regex.other</key>
+        <string>0.831373 0.831373 0.831373 0.85</string> <key>xcode.syntax.string</key>
+        <string>0.745098 0.345098 0.968627 1</string> <key>xcode.syntax.url</key>
+        <string>0.376471 0.713725 1.000000 1</string> </dict>
+
+    <key>DVTSourceTextSyntaxFonts</key>
+    <dict>
+        <key>xcode.syntax.attribute</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.character</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.comment</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.comment.doc</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.comment.doc.keyword</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.declaration.other</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.declaration.type</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.class</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.class.system</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.constant</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.constant.system</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.function</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.function.system</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.macro</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.macro.system</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.type</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.type.system</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.variable</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.identifier.variable.system</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.keyword</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.mark</key>
+        <string>MonaspaceNeon-Bold - 14.0</string>
+        <key>xcode.syntax.markup.code</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.number</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.plain</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.preprocessor</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.regex</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.regex.capturename</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.regex.charname</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.regex.number</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.regex.other</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.string</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+        <key>xcode.syntax.url</key>
+        <string>MonaspaceNeon-Regular - 14.0</string>
+    </dict>
+    <key>name</key>
+    <string>Vibrant Dark v2</string> </dict>
+</plist>
