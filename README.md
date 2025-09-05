@@ -1,5 +1,5 @@
 # yet-another-xcode-theme
-Light / dark modes color theme I made for Xcode, inspired on my Yet Another Color Theme for VSCode.
+Light / dark modes color theme I made for Xcode, inspired by my Yet Another Color Theme for VSCode.
 
 In order to use the theme, follow these steps:
 
